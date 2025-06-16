@@ -2,3 +2,4 @@ serviceName,partitionName,activationCriteria,enabled,maxActivationDurationHours,
 "facp","facp_developer_role",,false,,"null","null","null","null"
 "facp","facp_developer_role_test",,false,,"null","null","null","null"
 "facp","facp_developer_role_dev",,false,,"null","null","null","null"
+"facp","facp_developer_role_dev2",,false,,"null","null","null","null"
